@@ -1,5 +1,3 @@
-<p align="center"><img src="SS/poster.jpg" width="250" height="250" align="center"></p>
-
 
 # Digital Signage Masjid Berbasis Web
 Menampilkan Informasi berkaitan dengan masjid yang di tampilkan dalam suatu tampilan web Slide. Tujuan supaya jamaah masjid lebih mudah dalam mencari informasi seputar masjid.
