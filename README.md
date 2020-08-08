@@ -1,4 +1,4 @@
-<p align="center"><img src="SS/poster.png" width="250" height="250" align="center"></p>
+<p align="center"><img src="SS/poster.jpg" width="250" height="250" align="center"></p>
 
 
 # Digital Signage Masjid Berbasis Web
